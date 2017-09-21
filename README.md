@@ -25,9 +25,9 @@ In the root directory, enter the following commands to run my kata one solution,
     * python kata_one_tests.py  
     * python kata_two.py  
 
-Now, cd into the kata_three directory, and enter the following commands to run my refactored solutions and my shared code unit tests.
-    * python weather_solution.py
-    * python football_solution.py
-    * python shared_tests.py
-
+Now, cd into the kata_three directory, and enter the following commands to run my refactored solutions and my shared code unit tests.  
+    * python weather_solution.py  
+    * python football_solution.py  
+    * python shared_tests.py  
+  
 That's it! 
